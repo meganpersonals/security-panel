@@ -1,0 +1,322 @@
+.categoryLink{
+  background-color: #fe8d8d;
+  color: #fe8d8d;
+  text-align: center;
+  width: 100%;
+  border-radius: 0;
+  font-size: 39px;
+  margin: 0 0 12px 0;
+  font-weight: bold;
+  -webkit-box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.31);
+  -moz-box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.31);
+  box-shadow: 0px 4px 12px 9px rgba(0, 0, 0, 0.31);
+}
+.agecake > img {
+  width: 90%; 
+}
+
+#body_border {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: -1000;
+
+}
+
+nav .pager li > a, .pager li > span {
+  background-color: initial;
+}
+
+nav .pager li > a:hover, .pager li > span {
+  background-color: initial;
+}
+a.linksUnderButton {
+  font-size: 14px;
+  font-weight: bold;
+  color: #b8b8b8;
+  text-decoration: none; }
+#bottom_button_container {
+  float: left;
+  margin: 0px 0px 5px -9px;
+  padding: 0px 0px 0px 0px; }
+
+  footer {
+  color: #046aaf;
+  font-family: Verdana;
+  font-size: 12px;
+  margin-top: 16px;
+  padding-bottom: 32px;
+}
+
+footer .pager li > a {
+  padding: 2px 0px 2px 0px;
+  margin: 2px -2px 2px -1px;
+  color: #046aaf;
+  border: none; }
+
+.agecake > img {
+width: 90%;
+border: 0;
+vertical-align: middle;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+overflow-clip-margin: content-box;
+overflow: clip;
+}
+.agecake{
+  text-align: center;
+  margin-top: 15px;
+}
+.bodybody{
+  background-position: 50% 0%;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #fbfefa;
+  z-index: 13000;
+  top: 0;
+  overflow-y: scroll;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+
+}
+.bodybody2{
+  width: 550px;
+  margin: 2em auto;
+  padding: 1em 2.8em 4em;
+  z-index: 2000;
+  position: relative;
+  background-size: 100% 100%;
+  color: #4f0202;
+}
+.typing{
+  font-size: 14px;
+  font-family: arial;
+  color: darkgray;
+  text-align: center;
+  font-weight: 600;
+  list-style: none;
+}
+
+
+li::before{
+  content: '\2981';
+  margin: 0 8px 0 -12px;
+  color: #fe8d8d;
+  font-weight: 900;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a:link{
+  color: #68a2b4;
+}
+.btn{
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  user-select: none;
+  border-radius: 4px;
+
+}
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+
+}
+button, html, input[type=button], input[type=reset], input[type=submit] {
+  
+  -webkit-appearance: button;
+  cursor: pointer;
+
+}
+button, select {
+text-transform: none;
+}
+button {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font: inherit;
+  color: inherit;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+button {
+  appearance: auto;
+  font-style: ;
+font-style: ;
+  font-variant-ligatures: ;
+   font-variant-caps: ;
+  font-variant-numeric: ;
+   font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: buttontex;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.centered {
+  text-align: center;
+}
+div {
+  display: block;
+}
+.listLocation {
+  font-size: 11px;
+  word-wrap: break-word; }
+
+  #termsContainer ul>li,
+#termsContainer ol>li {
+    text-align: justify;
+    margin: 9px 0;
+}
+#termsContainerPage .h1 {
+  font-size: 27px;
+  font-weight: 700;
+}
+
+#termsContainerPage .h2 {
+  font-size: 19px;
+  font-weight: 600;
+  color: darkgrey;
+}
+
+#termsContainerPage .h3 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  text-indent: 16px;
+}
+
+#termsContainerPage .h4 {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+#termsContainerPage .simpleText {
+  font-size: 16px;
+  margin: 10px 0;
+  text-align: justify;
+  text-indent: 16px;
+}
+
+#termsContainerPage .red {
+  color: red;
+  display: inline;
+}
+
+#termsContainerPage .bold {
+  font-weight: bold;
+  display: inline;
+}
+
+#termsContainerPage .border {
+  border: 1px solid black;
+  margin: 4px;
+  padding: 0 8px;
+}
+
+#termsContainerPage .margin {
+  border: 1px solid black;
+  margin: 4px;
+  padding: 4px 12px;
+}
+
+#termsContainerPage .margin-noborder {
+  margin: 4px;
+  padding: 4px 30px;
+}
+
+#termsContainerPage ul>li,
+#termsContainerPage ol>li {
+  text-align: left;
+  font-size: 16px;
+  margin: 12px 0;
+}
+
+#termsContainerPage ul[style="list-style: none"] > li {
+  margin: 8px 0;
+  text-align: justify;
+}
+.gallerylistad {
+  float: left;
+  width: 100%;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  position: relative;
+  background: #ececec;
+}
+
+.gallerylistimage {
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.gallerylistad img {
+  width: 100%;
+  height: auto;
+}
+#ageagree {
+  background: #fe8d8d;
+  color: #fff;
+  width: 100%;
+  border-radius: 0;
+  font-size: 39px;
+  margin: 0 0 12px 0;
+  font-weight: bold;
+  -webkit-box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.31);
+  -moz-box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.31);
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.31);
+}
